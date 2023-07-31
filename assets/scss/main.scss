@@ -7,7 +7,10 @@ h3 {
   font-size: 24px;
   font-weight: 700; /* 700 es la variante "bold" de Poppins */
 }
-
+p{
+  font-family: "Poppins", sans-serif;
+  color:#5B5B5B;
+}
 #header img {
   position: relative;
   top: 48px;
@@ -57,6 +60,14 @@ footer{
 .btn-primary{
     color:white !important;
     border-radius: 27px !important;
+    -webkit-border-radius: 27px !important;
+    -moz-border-radius: 27px !important;
+    -ms-border-radius: 27px !important;
+    -o-border-radius: 27px !important;
+}
+
+.form-control{
+  border-radius: 27px !important;
     -webkit-border-radius: 27px !important;
     -moz-border-radius: 27px !important;
     -ms-border-radius: 27px !important;
