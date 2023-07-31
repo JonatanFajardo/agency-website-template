@@ -54,6 +54,14 @@ footer h1, footer .h1, footer h2, footer .h2, footer h3, footer .h3, footer h4, 
   -o-border-radius: 27px !important;
 }
 
+.card {
+  border-radius: 2rem !important;
+  -webkit-border-radius: 2rem !important;
+  -moz-border-radius: 2rem !important;
+  -ms-border-radius: 2rem !important;
+  -o-border-radius: 2rem !important;
+}
+
 /*!
  * Bootstrap  v5.3.1 (https://getbootstrap.com/)
  * Copyright 2011-2023 The Bootstrap Authors
