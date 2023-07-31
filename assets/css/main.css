@@ -11,7 +11,7 @@ h3,
 
 p {
   font-family: "Poppins", sans-serif;
-  color: #5B5B5B;
+  color: #5b5b5b;
 }
 
 #header img {
@@ -42,7 +42,15 @@ p {
 footer .nav-link {
   color: white !important;
 }
-footer h1, footer .h1, footer h2, footer .h2, footer h3, footer .h3, footer h4, footer .h4, footer h5, footer .h5 {
+footer h1, footer .h1,
+footer h2,
+footer .h2,
+footer h3,
+footer .h3,
+footer h4,
+footer .h4,
+footer h5,
+footer .h5 {
   color: white;
 }
 

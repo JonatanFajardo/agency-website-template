@@ -7,9 +7,9 @@ h3 {
   font-size: 24px;
   font-weight: 700; /* 700 es la variante "bold" de Poppins */
 }
-p{
+p {
   font-family: "Poppins", sans-serif;
-  color:#5B5B5B;
+  color: #5b5b5b;
 }
 #header img {
   position: relative;
@@ -47,40 +47,42 @@ p{
   }
 }
 
-footer{
-    .nav-link{
-        color:white !important;
-    }
-    h1, h2, h3, h4, h5{
-        color: white;
-    }
-    
+footer {
+  .nav-link {
+    color: white !important;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5 {
+    color: white;
+  }
 }
 
-.btn-primary{
-    color:white !important;
-    border-radius: 27px !important;
-    -webkit-border-radius: 27px !important;
-    -moz-border-radius: 27px !important;
-    -ms-border-radius: 27px !important;
-    -o-border-radius: 27px !important;
-}
-
-.form-control{
+.btn-primary {
+  color: white !important;
   border-radius: 27px !important;
-    -webkit-border-radius: 27px !important;
-    -moz-border-radius: 27px !important;
-    -ms-border-radius: 27px !important;
-    -o-border-radius: 27px !important;
+  -webkit-border-radius: 27px !important;
+  -moz-border-radius: 27px !important;
+  -ms-border-radius: 27px !important;
+  -o-border-radius: 27px !important;
 }
 
-.card{
-  border-radius:2rem !important;
-  -webkit-border-radius:2rem !important;
-  -moz-border-radius:2rem !important;
-  -ms-border-radius:2rem !important;
-  -o-border-radius:2rem !important;
+.form-control {
+  border-radius: 27px !important;
+  -webkit-border-radius: 27px !important;
+  -moz-border-radius: 27px !important;
+  -ms-border-radius: 27px !important;
+  -o-border-radius: 27px !important;
 }
 
+.card {
+  border-radius: 2rem !important;
+  -webkit-border-radius: 2rem !important;
+  -moz-border-radius: 2rem !important;
+  -ms-border-radius: 2rem !important;
+  -o-border-radius: 2rem !important;
+}
 
 @import "../../node_modules/bootstrap/scss/bootstrap.scss";
